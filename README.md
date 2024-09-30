@@ -1,5 +1,4 @@
-# Andreu Picornell
-## Hi there 👋
+# Hi there 👋, it's Andreu Picornell GitHub
 
 ### 🌱 I’m currently learning:
 - **Python**
