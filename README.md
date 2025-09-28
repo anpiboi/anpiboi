@@ -2,18 +2,32 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# Hi there 👋
+# Hi there 👋 I'm [Tu Nombre]
 
-### 🌱 I’m currently learning:
-- **Python**
-  - Development of scripts for task automation, data manipulation, and testing in embedded systems environments.
-  
-- **C**
-  - Experience in low-level programming for embedded systems, code optimization, and efficient memory management.
+### 🌱 Currently Learning
+- **Python**  
+  - Task automation, data manipulation, testing in embedded systems, and backend development.
+- **C**  
+  - Low-level programming, memory optimization, and efficient embedded system solutions.
+- **AI & Machine Learning**  
+  - Developing models, data pipelines, and implementing AI algorithms for real-world applications.
 
-### 🔭 I’m currently working on:
-- [Calculator](https://github.com/anpiboi/Calculator)
-  - A calculator project implemented in C, designed to perform basic arithmetic operations with a focus on efficiency and simplicity. Ideal for understanding control structures and system interaction.
+### 🔭 Current Projects
+- [**Calculator**](https://github.com/anpiboi/Calculator)  
+  Lightweight calculator in C, focusing on efficiency and simplicity. Great for understanding control structures and system interaction.
+- [**AI Project / Backend Project**](#)  
+  (Añade aquí algún proyecto de IA o backend que tengas o estés desarrollando).
 
-### ⚡ More about me
-I am a software engineer specializing in embedded systems, with experience using Python for test automation and C for low-level software development. In my projects, I strive to create efficient solutions with a focus on scalability and code maintainability.
+### 💻 Skills & Expertise
+- **Embedded Systems:** Low-level programming, optimization, and system reliability.  
+- **Python & Backend:** API development, Flask, RESTful services, and automation.  
+- **AI / ML:** Data processing, model development, and algorithm implementation.  
+- **C Programming:** Efficient memory and performance-focused coding.  
+- **Software Practices:** Clean code, maintainability, scalability, and testing.
+
+### ⚡ About Me
+I’m passionate about building efficient, maintainable, and scalable software solutions. I enjoy combining embedded systems knowledge, backend development, and AI/ML skills to solve complex problems.
+
+### 📫 Contact
+- GitHub: [github.com/anpiboi](https://github.com/anpiboi)  
+
