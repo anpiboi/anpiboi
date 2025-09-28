@@ -15,8 +15,6 @@
 ### 🔭 Current Projects
 - [**Calculator**](https://github.com/anpiboi/Calculator)  
   Lightweight calculator in C, focusing on efficiency and simplicity. Great for understanding control structures and system interaction.
-- [**AI Project / Backend Project**](#)  
-  (Añade aquí algún proyecto de IA o backend que tengas o estés desarrollando).
 
 ### 💻 Skills & Expertise
 - **Embedded Systems:** Low-level programming, optimization, and system reliability.  
