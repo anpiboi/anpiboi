@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# Hi there 👋 I'm [Tu Nombre]
+# Hi there 👋 I'm @anpiboi
 
 ### 🌱 Currently Learning
 - **Python**  
